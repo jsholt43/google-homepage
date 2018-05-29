@@ -1,0 +1,2 @@
+Hello! My name is Justin. I am following The Odin Project and I guess now I will try to recreate the Google Homepage.
+Link to Project: http://www.theodinproject.com/courses/web-development-101/lessons/html-css
